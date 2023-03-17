@@ -12,8 +12,6 @@ The notebook contains code for data preprocessing, feature selection, model trai
 
 The trained models are evaluated based on various performance metrics such as accuracy, precision, recall, and F1-score.
 
-The best performing model is saved as a pickle file, which can be used for making predictions on new data.
-
 # Results
 The performance of the different machine learning algorithms used in this project is compared in the ML_models.ipynb file. The results show that the xgboost algorithm worked out best for us.
 
